@@ -1,0 +1,1 @@
+Basic analysis referring to a database of a real estate company
