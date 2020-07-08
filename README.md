@@ -7,4 +7,5 @@ Basic analysis referring to a database of a real estate company
 - Python_Data_Science_Numpy.ipynb - Simple exemple analysis using Numpy
 - testing some structures (Pandas).zip - Extra codes in Python/Pandas (tests)
 - Tratamento de Dados Faltantes.ipynb - Treatment of null values (Pandas)
+- Criando Novas Variáveis.ipynb - Creating new calculated columns (Pandas)
 
