@@ -9,4 +9,4 @@ Basic analysis referring to a database of a real estate company
 - Tratamento de Dados Faltantes.ipynb - Treatment of null values (Pandas)
 - Criando Novas Variáveis.ipynb - Creating new calculated columns (Pandas)
 - Numpy.py - Merge and filter files using numpy
-
+- Criando Agrupamentos.ipynb - Using groupby, matplotlib (graphs) and cut by ranges
