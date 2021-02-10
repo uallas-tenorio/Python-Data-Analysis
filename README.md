@@ -1,4 +1,4 @@
-Basic analysis referring to a database of a real estate company
+Basic analysis referring to a database of a real estate company + Ibovespa Funds analysis
 
 - Base de Dados.ipynb - Examples of database import 
 - Importação de dados.ipynb - Importing real state database and analysing content (Pandas)
@@ -11,3 +11,4 @@ Basic analysis referring to a database of a real estate company
 - Numpy.py - Merge and filter files using numpy
 - Criando Agrupamentos.ipynb - Using groupby, matplotlib (graphs) and cut by ranges
 - Identificando e Removendo Outliers.ipynb - Using groupby, boxplot and statistics patterns in order cleaning data. New data visualization with matplotlib
+- ETL Ibovespa.ipynb - Creating a simple process to analyse Excel sheets and transfer data to SQL Server Database.
