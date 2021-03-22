@@ -1,0 +1,3 @@
+cd "%userprofile%desktopatt"
+start chrome.exe http://localhost:8888/notebooks/Projetos%20Python/Impacta/Projeto_Deputados.ipynb#
+jupyter notebook
