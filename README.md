@@ -1,4 +1,4 @@
-Basic analysis using Python (Pandas, Matplotlib and +)
+Basic analysis using Python (Pandas, Matplotlib and plus)
 
 - Base de Dados.ipynb - Examples of database import 
 - Importação de dados.ipynb - Importing real state database and analysing content (Pandas)
@@ -10,6 +10,6 @@ Basic analysis using Python (Pandas, Matplotlib and +)
 - Criando Novas Variáveis.ipynb - Creating new calculated columns (Pandas)
 - Numpy.py - Merge and filter files using numpy
 - Criando Agrupamentos.ipynb - Using groupby, matplotlib (graphs) and cut by ranges
-- Identificando e Removendo Outliers.ipynb - Using groupby, boxplot and statistics patterns in order cleaning data. New data visualization with matplotlib
+- Identificando e Removendo Outliers.ipynb - Using groupby, boxplot and statistics patterns in order to cleaning data. New data visualization with matplotlib
 - ETL Ibovespa.ipynb - Creating a simple process to analyse Excel sheets and transfer data to SQL Server Database.
 - Projeto_Deputados.ipynb - ETL for read REST API, transforming, merging, and load data into SQLite (Congressional costs in Brazil).
