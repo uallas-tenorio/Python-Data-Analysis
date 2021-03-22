@@ -1,4 +1,4 @@
-Basic analysis referring to a database of a real estate company + Ibovespa Funds analysis
+Basic analysis using Python (Pandas, Matplotlib and +)
 
 - Base de Dados.ipynb - Examples of database import 
 - Importação de dados.ipynb - Importing real state database and analysing content (Pandas)
