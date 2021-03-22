@@ -12,3 +12,4 @@ Basic analysis referring to a database of a real estate company + Ibovespa Funds
 - Criando Agrupamentos.ipynb - Using groupby, matplotlib (graphs) and cut by ranges
 - Identificando e Removendo Outliers.ipynb - Using groupby, boxplot and statistics patterns in order cleaning data. New data visualization with matplotlib
 - ETL Ibovespa.ipynb - Creating a simple process to analyse Excel sheets and transfer data to SQL Server Database.
+- Projeto_Deputados.ipynb - ETL for read REST API, transforming, merging, and load data into SQLite (Congressional costs in Brazil).
